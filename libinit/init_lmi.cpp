@@ -14,8 +14,6 @@ static const variant_info_t lmi_info = {
     .device = "lmi",
     .marketname = "",
     .model = "POCO F2 Pro",
-    .build_description = "redfin-user 11 RQ3A.210605.005 7349499 release-keys",
-    .build_fingerprint = "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys",
 };
 
 static const variant_info_t lmipro_info = {
@@ -26,8 +24,6 @@ static const variant_info_t lmipro_info = {
     .device = "lmipro",
     .marketname = "",
     .model = "Redmi K30 Pro Zoom Edition",
-    .build_description = "redfin-user 11 RQ3A.210605.005 7349499 release-keys",
-    .build_fingerprint = "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys",
 };
 
 static const std::vector<variant_info_t> variants = {
